@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Flora Sylvia
+tagline: mindspace depiction
 ---
 {% include JB/setup %}
 
